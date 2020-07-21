@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/projects/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/resume/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/images/AD.pdf</loc>
+<lastmod>2020-07-21T00:34:46+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/images/JOS.pdf</loc>
+<lastmod>2020-07-21T01:36:33+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/images/RD.pdf</loc>
+<lastmod>2020-07-21T01:08:33+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/images/Resume.pdf</loc>
+<lastmod>2020-07-21T02:14:32+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/images/SC.pdf</loc>
+<lastmod>2020-07-21T02:02:59+05:30</lastmod>
+</url>
+</urlset>
