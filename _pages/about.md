@@ -5,4 +5,4 @@ header:
    image: "/images/Robot.jpg"
 ---
 
-I'm a fourth year undergraduate student in Electronics and Communication Engineering and am currently looking for opportunities to work in the field of robot vision and autonomous systems.
+I'm an incoming graduate student at Northeastern University for Masters in Robotics (Fall 2021) and am currently looking for opportunities to work in the field of robot vision and autonomous systems.
