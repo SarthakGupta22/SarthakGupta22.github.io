@@ -4,7 +4,7 @@ permalink: /projects/
 title: "Projects"
 author_profile: true
 header:
-   image: "/images/Robot.jpg"
+   #image: "/images/Robot.jpg"
 ---
 
 1. [Autonomous Indoor Mapping using Drone](https://raw.githubusercontent.com/SarthakGupta22/SarthakGupta22.github.io/master/images/AD.pdf)
